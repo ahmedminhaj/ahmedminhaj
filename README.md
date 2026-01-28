@@ -41,8 +41,6 @@
 ## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedminhaj&layout=compact&theme=default)
 
-![Ahmed Minhaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedminhaj&show_icons=true&hide_title=true&count_private=true&theme=default)
-
 ---
 
 ## 🌟 Featured Projects
