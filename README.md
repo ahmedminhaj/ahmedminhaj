@@ -1,9 +1,11 @@
-# 👋 Hi, I’m Ahmed Minhaj
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Minhaj+Ahammed;Software+Engineer+from+Denmark;React%2C+Next.js%2C+Vue%2C+Flutter" />
+</p>
 
-I’m a Software Engineer with experience building scalable web and mobile applications.  
-I enjoy turning complex problems into clean, efficient solutions and continuously learning new technologies.
+<p align="center">
+  Building scalable web & mobile applications 🚀
+</p>
 
----
 
 ## 💼 About Me
 - 💻 Software Engineer with hands-on experience in frontend and full-stack development
